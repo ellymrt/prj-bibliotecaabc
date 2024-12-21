@@ -1,5 +1,3 @@
-# prj-bibliotecaabc
-Projeto realizado para composição de nota na disciplina de Sistemas de Informação, no curso de **Análise e Desenvolvimento de Sistemas**.
 
 # Sobre o Projeto
 O projeto Biblioteca Escola ABC foi desenvolvido em VB.NET para gerenciar o cadastro de livros, alunos e funcionários em um sistema de biblioteca escolar. O projeto tem como objetivo simplificar o processo de empréstimo de livros.

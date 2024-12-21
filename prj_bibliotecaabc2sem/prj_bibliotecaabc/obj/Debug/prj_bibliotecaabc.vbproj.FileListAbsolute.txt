@@ -1,0 +1,181 @@
+D:\2 Semestre\SI\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.AssemblyReference.cache
+D:\2 Semestre\SI\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Resources.resources
+D:\2 Semestre\SI\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.GenerateResource.cache
+D:\2 Semestre\SI\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.CoreCompileInputs.cache
+D:\2 Semestre\SI\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.exe.config
+D:\2 Semestre\SI\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.exe
+D:\2 Semestre\SI\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.pdb
+D:\2 Semestre\SI\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.xml
+D:\2 Semestre\SI\prj_bibliotecaabc\bin\Debug\aa-DJ\prj_bibliotecaabc.resources.dll
+D:\2 Semestre\SI\prj_bibliotecaabc\bin\Debug\aa\prj_bibliotecaabc.resources.dll
+D:\2 Semestre\SI\prj_bibliotecaabc\obj\Debug\aa-DJ\prj_bibliotecaabc.resources.dll
+D:\2 Semestre\SI\prj_bibliotecaabc\obj\Debug\aa\prj_bibliotecaabc.resources.dll
+D:\2 Semestre\SI\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.exe
+D:\2 Semestre\SI\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.xml
+D:\2 Semestre\SI\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.pdb
+D:\2 Semestre\SI\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.frm_CadastroAlunos.resources
+D:\2 Semestre\SI\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.frm_Login.resources
+D:\2 Semestre\SI\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.frm_Livros.resources
+D:\2 Semestre\SI\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.frm_menufuncionario.resources
+D:\2 Semestre\SI\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.frm_menudiretor.resources
+D:\2 Semestre\SI\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.frm_Login.aa-DJ.resources
+D:\2 Semestre\SI\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.frm_Login.aa.resources
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.exe.config
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.exe
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.pdb
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.xml
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\bin\Debug\aa-DJ\prj_bibliotecaabc.resources.dll
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\bin\Debug\aa\prj_bibliotecaabc.resources.dll
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.AssemblyReference.cache
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_Login.resources
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadastroFuncionario.resources
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadAlunos.resources
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_Livros.resources
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_MenuFuncionario.resources
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_MenuDiretor.resources
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Resources.resources
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadAlunos.aa-DJ.resources
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadAlunos.aa.resources
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.GenerateResource.cache
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.CoreCompileInputs.cache
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\obj\Debug\aa-DJ\prj_bibliotecaabc.resources.dll
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\obj\Debug\aa\prj_bibliotecaabc.resources.dll
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.exe
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.xml
+D:\fatec\2 Semestre\Sistema de Informação\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.pdb
+E:\PROJETO\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.exe.config
+E:\PROJETO\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.exe
+E:\PROJETO\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.pdb
+E:\PROJETO\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.xml
+E:\PROJETO\prj_bibliotecaabc\bin\Debug\aa-DJ\prj_bibliotecaabc.resources.dll
+E:\PROJETO\prj_bibliotecaabc\bin\Debug\aa\prj_bibliotecaabc.resources.dll
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.AssemblyReference.cache
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\Interop.ADODB.dll
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.ResolveComReference.cache
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_Login.resources
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadastroFuncionario.resources
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadAlunos.resources
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_Livros.resources
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_MenuFuncionario.resources
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_MenuDiretor.resources
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Resources.resources
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadAlunos.aa-DJ.resources
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadAlunos.aa.resources
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.GenerateResource.cache
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.CoreCompileInputs.cache
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\aa-DJ\prj_bibliotecaabc.resources.dll
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\aa\prj_bibliotecaabc.resources.dll
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.exe
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.xml
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.pdb
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Form1.resources
+E:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadastroAlunos.resources
+D:\PROJETO\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.exe.config
+D:\PROJETO\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.exe
+D:\PROJETO\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.pdb
+D:\PROJETO\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.xml
+D:\PROJETO\prj_bibliotecaabc\bin\Debug\aa-DJ\prj_bibliotecaabc.resources.dll
+D:\PROJETO\prj_bibliotecaabc\bin\Debug\aa\prj_bibliotecaabc.resources.dll
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.AssemblyReference.cache
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\Interop.ADODB.dll
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.ResolveComReference.cache
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Form1.resources
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadastroAlunos.resources
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_Login.resources
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadastroFuncionario.resources
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadAlunos.resources
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_Livros.resources
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_MenuFuncionario.resources
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_MenuDiretor.resources
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Resources.resources
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadAlunos.aa-DJ.resources
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadAlunos.aa.resources
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.GenerateResource.cache
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.CoreCompileInputs.cache
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\aa-DJ\prj_bibliotecaabc.resources.dll
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\aa\prj_bibliotecaabc.resources.dll
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.exe
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.xml
+D:\PROJETO\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.pdb
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.AssemblyReference.cache
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\Interop.ADODB.dll
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.ResolveComReference.cache
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadastroAlunos.resources
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_Login.resources
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadastroFuncionario.resources
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadAlunos.resources
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_Livros.resources
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_MenuFuncionario.resources
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_MenuDiretor.resources
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Resources.resources
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadAlunos.aa-DJ.resources
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadAlunos.aa.resources
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.GenerateResource.cache
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.CoreCompileInputs.cache
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.exe
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.xml
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.pdb
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.exe.config
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.exe
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.pdb
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.xml
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\bin\Debug\aa-DJ\prj_bibliotecaabc.resources.dll
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\bin\Debug\aa\prj_bibliotecaabc.resources.dll
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\aa-DJ\prj_bibliotecaabc.resources.dll
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\aa\prj_bibliotecaabc.resources.dll
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.exe.config
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.exe
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.pdb
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.xml
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\bin\Debug\aa-DJ\prj_bibliotecaabc.resources.dll
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\bin\Debug\aa\prj_bibliotecaabc.resources.dll
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.AssemblyReference.cache
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\Interop.ADODB.dll
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.ResolveComReference.cache
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadastroAlunos.resources
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_Login.resources
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadastroFuncionario.resources
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadAlunos.resources
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_Livros.resources
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_MenuDiretor.resources
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_MenuFuncionario.resources
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Resources.resources
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadAlunos.aa-DJ.resources
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadAlunos.aa.resources
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.GenerateResource.cache
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.CoreCompileInputs.cache
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\aa-DJ\prj_bibliotecaabc.resources.dll
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\aa\prj_bibliotecaabc.resources.dll
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.exe
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.xml
+E:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.pdb
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_Emprestimos.resources
+D:\fatec\2 Semestre\prj_bibliotecaabc\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_Catalogo.resources
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.exe.config
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.exe
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.pdb
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\bin\Debug\prj_bibliotecaabc.xml
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\bin\Debug\aa-DJ\prj_bibliotecaabc.resources.dll
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\bin\Debug\aa\prj_bibliotecaabc.resources.dll
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.AssemblyReference.cache
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\Interop.ADODB.dll
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.ResolveComReference.cache
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadastroAlunos.resources
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_Catalogo.resources
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_Emprestimos.resources
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_Login.resources
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadastroFuncionario.resources
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadAlunos.resources
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_Livros.resources
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_MenuDiretor.resources
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_MenuFuncionario.resources
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Resources.resources
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadAlunos.aa-DJ.resources
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.Frm_CadAlunos.aa.resources
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.GenerateResource.cache
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.vbproj.CoreCompileInputs.cache
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\aa-DJ\prj_bibliotecaabc.resources.dll
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\aa\prj_bibliotecaabc.resources.dll
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.exe
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.xml
+D:\fatec\2 Semestre\prj_bibliotecaabcHumberto\prj_bibliotecaabc\obj\Debug\prj_bibliotecaabc.pdb
